@@ -77,7 +77,7 @@ body {
 .footer {
   background: var(--talise-salmon); /* ajustalo a tu color */
   color: #000;
-  padding: 1.6rem 1.5rem;
+  padding: 0.2rem 1.5rem;
   font-size: .95rem;
   min-height: 10vh;
   border-top: 1px solid #000;
