@@ -82,6 +82,7 @@ body {
   min-height: 10vh;
   border-top: 1px solid #000;
   width: 100%;
+  align-content: center;
 }
 
 .footer-envios {
